@@ -13,10 +13,12 @@ public class RestaurantServiceApplication {
 	public void m1() {
 	}
 
+
 	public void m2() {
 		System.out.println("hellj");
 	}
 
 	public void m3() {
 	}
+	
 }
