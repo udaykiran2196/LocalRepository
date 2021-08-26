@@ -14,6 +14,7 @@ public class RestaurantServiceApplication {
 	}
 
 	public void m2() {
+		System.out.println("hellj");
 	}
 
 	public void m3() {
