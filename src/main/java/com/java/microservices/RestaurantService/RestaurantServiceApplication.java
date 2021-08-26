@@ -13,10 +13,11 @@ public class RestaurantServiceApplication {
 	public void m1() {
 	}
 
-	public void m2() {
-		System.out.println("hello world");
+
+	public void m4() {
 	}
 
 	public void m3() {
 	}
+	
 }
